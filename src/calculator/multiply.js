@@ -1,8 +1,8 @@
 /**
  * Multiplication
  */
-function add(firstNum, secondNum) {
+function multiply(firstNum, secondNum) {
     return firstNum * secondNum;
   }
   
-  module.exports = add
+  module.exports = multiply
